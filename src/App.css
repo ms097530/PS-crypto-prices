@@ -1,0 +1,26 @@
+/* .active
+{
+  position: relative;
+}
+
+.active::before
+{
+  position: absolute;
+  content: '';
+  width: 10px;
+  height: 4px;
+  background-color: orange;
+  left: -10px;
+  top: 50%;
+}
+
+.active::after
+{
+  position: absolute;
+  content: '';
+  width: 10px;
+  height: 4px;
+  background-color: orange;
+  right: -10px;
+  top: 50%;
+} */
